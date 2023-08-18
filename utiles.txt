@@ -6,6 +6,8 @@ regla
 tijeras
 borrador 
 estuche 
-casco 
-brasalete
-pinzas
+transportador
+escuadra
+pintura 
+bata
+cuchillo 
