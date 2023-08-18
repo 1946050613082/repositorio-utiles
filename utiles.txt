@@ -1,0 +1,8 @@
+lapices
+colores 
+jabon 
+cuaderno 
+regla
+tijeras
+borrador 
+estuche 
