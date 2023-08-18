@@ -6,3 +6,6 @@ regla
 tijeras
 borrador 
 estuche 
+casco 
+brasalete
+pinzas
